@@ -1,4 +1,3 @@
-
 # Getting Started
 This is a journey intended for Web Developers joining Code413 to allow the team share a common knowledge foundation and have a synchronized workflow.
 
