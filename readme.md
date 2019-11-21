@@ -16,6 +16,7 @@ This is a journey intended for Web Developers joining Code413 to allow the team 
 - Write JS in [JavaScript Standard Style](https://github.com/standard/standard).
 - Loosely follow [Google's HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html) and [SASS Guidelines](https://sass-guidelin.es/).
 - (optional) Setup PHPStorm with these [settings](https://docs.code413.io/settings.jar) to get a head start.
+- We now use the Laravel preset on [StyleCI](https://styleci.io/) for our active repositories. This continuously fixes the styling issues of our code after each commit.
 
 ## Level Up
 - Use [Simple Rules for Simpler Code](https://laracasts.com/series/simple-rules-for-simpler-code).
