@@ -20,3 +20,4 @@ This is a journey intended for Web Developers joining Code413 so that the team s
 - Get familiar with the [Testing Jargon](https://laracasts.com/series/testing-jargon).
 - Learn [Testing Laravel](https://laracasts.com/series/phpunit-testing-in-laravel).
 - Watch [Build A Laravel App With TDD](https://laracasts.com/series/build-a-laravel-app-with-tdd).
+- Watch [Cruddy by Design by Adam Wathan](https://youtu.be/MF0jFKvS4SI). We often use this approach in structuring our controllers, routes, and views. 
