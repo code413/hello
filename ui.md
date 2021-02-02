@@ -1,4 +1,4 @@
-# Designing UIs
+# UI Design
 Documenting resources for our UI designers to refer to and get inspirations from. 
 
 ## Useful Links
